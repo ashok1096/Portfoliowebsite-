@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600;700&display=swap');
 
 *{
@@ -404,14 +405,17 @@ profile-photo .img{
   padding: 15px;
   border: 0;
   margin-bottom: 10px;
+  border-radius: 100px;
 }
 
-.contact .submit{
+.contact .submit button {
   width: auto;
   background-color: #fed700;
   padding: 10px 40px;
   font-weight:bold ;
   font-size: 18px;
+  border-radius: 100px;
+
 }
 .contact .submit:hover{
   transform: scale(1.1);
@@ -532,4 +536,3 @@ profile-photo .img{
   }
 
 }
-
