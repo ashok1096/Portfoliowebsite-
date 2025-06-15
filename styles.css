@@ -21,7 +21,7 @@ body{
   font-family: 'Lexend', sans-serif;
   font-size:16px;
   line-height:24px; 
-  background-color:#5c96b5;
+  background-color:#000000;
 }
 .container{
   width: 1170px;
@@ -170,7 +170,7 @@ profile-photo .img{
 
 .about-area{
   padding-top: 130px;
-  background-color: #5c96b5;
+  background-color: #000000;
 }
 .about{
   display: flex;
